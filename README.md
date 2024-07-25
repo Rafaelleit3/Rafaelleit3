@@ -2,7 +2,7 @@
 
 # Sobre mim
 
-Sou desenvolvedor de software. Comecei a codar em **python, e fazer alguns bloquinhos em c# e java e iniciando minha jornada nos bancos de dados SQL, e APIs.** Fazer projetinhos em angular está sendo ótimo, estou sempre buscando aprender e evoluir. *Licenciado em Matemática pela UFPI*, trago uma base sólida de raciocínio lógico para meus desafios no mundo da programação. Agora cursando *Engenharia de software na UFC*.
+Sou desenvolvedor de software. Comecei a codar em **python, e fazer alguns bloquinhos em c#, java e iniciando minha jornada nos bancos de dados SQL, e APIs.** Fazer projetinhos em angular está sendo ótimo, estou sempre buscando aprender e evoluir. *Licenciado em Matemática pela UFPI*, trago uma base sólida de raciocínio lógico para meus desafios no mundo da programação. Agora cursando *Engenharia de software na UFC*.
 
 ## Horizontes
 Estou em busca de oportunidades para me aprimorar profissionalmente e colaborar em projetos desafiadores. Interessado em explorar novas tecnologias e aprender com profissionais experientes, estou aberto a novas experiências e pronto para enfrentar qualquer desafio que surgir no caminho.

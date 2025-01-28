@@ -12,9 +12,6 @@
         <li>🔹 Graduando em Engenharia de software na UFC-Quixadá</li>
     </ul>
   </div>
-  <div>
-    <img src="https://img.freepik.com/premium-vector/programmer-flat-illustration_418302-176.jpg?semt=ais_hybrid" alt="Software Developer" style="max-width: 200px; height: auto;">
-  </div>
 </div>
 
 

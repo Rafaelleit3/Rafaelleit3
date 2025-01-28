@@ -4,7 +4,9 @@
 
 ## 🎓 Sobre mim
 
-<div style="display: flex; align-items: center; justify-content: space-between; gap: 50px;">
+## 🎓 Sobre mim
+
+<div style="display: flex; align-items: center; flex-wrap: nowrap;">
   <div>
     <ul style="list-style-type: none;">
         <li>🔹 Programador Full-Stack</li>
@@ -13,8 +15,8 @@
     </ul>
   </div>
   <div>
-    <img src="https://img.freepik.com/premium-vector/programmer-flat-illustration_418302-176.jpg?semt=ais_hybrid" alt="Software Developer" width="60%">
-</div>
+    <img src="https://img.freepik.com/premium-vector/programmer-flat-illustration_418302-176.jpg?semt=ais_hybrid" alt="Software Developer" style="max-width: 200px; height: auto;">
+  </div>
 </div>
 
 

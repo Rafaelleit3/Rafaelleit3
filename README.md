@@ -4,14 +4,12 @@
 
 ## 🎓 Sobre mim
 
-## 🎓 Sobre mim
-
 <div style="display: flex; align-items: center; flex-wrap: nowrap;">
   <div>
     <ul style="list-style-type: none;">
-        <li>🔹 Programador Full-Stack</li>
-        <li>🔹 Licenciado em Matemática pela UFPI</li>
-        <li>🔹 Graduando em Engenharia de software na UFC-Quixadá</li>
+        <li> Programador Full-Stack</li>
+        <li> Licenciado em Matemática pela UFPI</li>
+        <li> Graduando em Engenharia de software na UFC-Quixadá</li>
     </ul>
   </div>
   <div>

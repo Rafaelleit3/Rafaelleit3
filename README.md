@@ -1,15 +1,15 @@
 # 👋 Hi, I’m Rafael Leite
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-leit3/) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]() [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]()
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-leit3/) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rafael.leit3/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rafacosta383@gmail.com)
 
 ## 🎓 Sobre mim
 
 <div style="display: flex; align-items: center; flex-wrap: nowrap;">
   <div>
     <ul style="list-style-type: none;">
-        <li> Programador Full-Stack</li>
-        <li> Licenciado em Matemática pela UFPI</li>
-        <li> Graduando em Engenharia de software na UFC-Quixadá</li>
+        <li>🔹 Programador Full-Stack</li>
+        <li>🔹 Licenciado em Matemática pela UFPI</li>
+        <li>🔹 Graduando em Engenharia de software na UFC-Quixadá</li>
     </ul>
   </div>
   <div>
